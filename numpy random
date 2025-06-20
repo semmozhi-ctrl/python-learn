@@ -1,0 +1,15 @@
+#random numbers
+from numpy import random
+x=random.randint(100)
+y=random.randint(100)
+z=random.randint(100)
+print(x,y,z)
+x=random.rand()
+y=random.rand()
+z=random.rand()
+print(x,y,z)
+x=random.randint(100,size=(5,6))
+print(x)
+#data distribution
+x = random.choice([3, 5, 7, 9], p=[0.1, 0.3, 0.6, 0.0], size=(100))
+print(x)

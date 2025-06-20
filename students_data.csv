@@ -1,0 +1,11 @@
+StudentID,Name,Age,Gender,Department,Maths,Science,English,Attendance,Remarks
+101,Ram,17,M,Computer Science,89,78,85,92.0,Good
+102,Sita,18,F,Electronics,95,,88,87.0,Excellent
+103,Karan,17,M,Mechanical,76,82,?,85.0,Average
+104,Deepa,18,F,Computer Science,45,58,61,73.0,Needs Improvement
+105,Ajay,19,M,Electronics,90,91,93,,Excellent
+106,Meena,17,F,Mechanical,,69,77,80.0,Good
+107,John,18,M,Computer Science,85,85,88,90.0,Good
+108,Rekha,18,F,Electronics,?,90,89,93.0,Excellent
+109,Ravi,20,M,Computer Science,66,75,70,68.0,Average
+110,Anjali,19,F,Mechanical,78,?,72,80.0,Good
